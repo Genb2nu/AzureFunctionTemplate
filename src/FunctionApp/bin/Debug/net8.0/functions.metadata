@@ -1,0 +1,98 @@
+[
+  {
+    "name": "DataTransferJob",
+    "scriptFile": "FunctionApp.dll",
+    "entryPoint": "HttpTrigger.Functions.TimeTrigger.DataTransferJob.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "myTimer",
+        "direction": "In",
+        "type": "timerTrigger",
+        "schedule": "0 0 0 1 * *",
+        "properties": {}
+      }
+    ]
+  },
+  {
+    "name": "DeleteBlog",
+    "scriptFile": "FunctionApp.dll",
+    "entryPoint": "HttpTrigger.Functions.HttpTrigger.BlogDeletion.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "delete"
+        ],
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "TestEnvironmentVariable",
+    "scriptFile": "FunctionApp.dll",
+    "entryPoint": "HttpTrigger.Functions.HttpTrigger.TestEnvironmentVariable.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "get"
+        ],
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "TestException",
+    "scriptFile": "FunctionApp.dll",
+    "entryPoint": "HttpTrigger.Functions.HttpTrigger.TestException.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "get"
+        ],
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  }
+]

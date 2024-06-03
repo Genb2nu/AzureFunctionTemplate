@@ -1,0 +1,15 @@
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\bin\Debug\net8.0\Core.Database.deps.json
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\bin\Debug\net8.0\Core.Database.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\bin\Debug\net8.0\Core.Database.pdb
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\bin\Debug\net8.0\Core.Business.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\bin\Debug\net8.0\Core.Business.pdb
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.csproj.AssemblyReference.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.AssemblyInfoInputs.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.AssemblyInfo.cs
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.csproj.CoreCompileInputs.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Dat.4EE1E406.Up2Date
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\refint\Core.Database.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\Core.Database.pdb
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Database\obj\Debug\net8.0\ref\Core.Database.dll

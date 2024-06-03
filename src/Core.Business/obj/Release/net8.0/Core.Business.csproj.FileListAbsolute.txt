@@ -1,0 +1,13 @@
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\bin\Release\net8.0\Core.Business.deps.json
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\bin\Release\net8.0\Core.Business.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\bin\Release\net8.0\Core.Business.pdb
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.csproj.AssemblyReference.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.AssemblyInfoInputs.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.AssemblyInfo.cs
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.csproj.CoreCompileInputs.cache
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.sourcelink.json
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\refint\Core.Business.dll
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\Core.Business.pdb
+C:\Users\eugene.betonio\Downloads\allianz-th-dataproject-onepagepolicy-azfunction\allianz-th-dataproject-onepagepolicy-azfunction\src\Core.Business\obj\Release\net8.0\ref\Core.Business.dll
